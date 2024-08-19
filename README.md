@@ -19,8 +19,9 @@ Los mercados campesinos no se hallan fácilmente en cualquier parte de la ciudad
 - [x] Actualizacion Readme.
 - [x] HTML Basico.
 
+![Ilustración (1)](https://github.com/user-attachments/assets/f2180947-c2b6-44e4-af83-23fedd5e5434)
 
-![Ilustración](https://github.com/user-attachments/assets/68b08d8c-d1ba-4287-beaa-88676b0fc1e0)
+
 
 
 
