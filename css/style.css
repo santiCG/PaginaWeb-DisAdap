@@ -412,6 +412,11 @@
          position: relative;
          top: -2px;
     }
+    .logo
+    {
+        max-width: 200px;
+        width: 200px;
+    }
      nav.navbar .navbar-brand img.logo{
          width: 160px;
     }
