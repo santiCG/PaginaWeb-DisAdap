@@ -1,0 +1,28 @@
+{
+  "name": "paginaweb-disadap",
+  "version": "1.0.0",
+  "description": "Los mercados campesinos no se hallan fácilmente en cualquier parte de la ciudad, además de que las apps de delivery suelen ofrecen únicamente productos de grandes cadenas. Nosotros queremos acercar el campo a las personas de las grandes ciudades.",
+  "main": "js/index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "pro": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase-tools": "^13.23.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "desandro-matches-selector": "^2.0.2",
+    "ev-emitter": "^2.1.2",
+    "fizzy-ui-utils": "^3.0.0",
+    "get-size": "^3.0.0",
+    "isotope": "^1.0.0-alpha.3",
+    "jquery": "^3.7.1",
+    "masonry-layout": "^4.2.2",
+    "outlayer": "^2.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
