@@ -1,6 +1,7 @@
 # Mercadiños.
 
-## Pagina: https://santicg.github.io/PaginaWeb-DisAdap/
+## GitPage: https://santicg.github.io/PaginaWeb-DisAdap/
+## Firebase Page: https://mercadinos-d716a.web.app/index.html
 
 ## ¿Que es?
 Los mercados campesinos no se hallan fácilmente en cualquier parte de la ciudad, además de que las apps de delivery suelen ofrecen únicamente productos de grandes cadenas. Nosotros queremos acercar el campo a las personas de las grandes ciudades. 
